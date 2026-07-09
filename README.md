@@ -85,8 +85,8 @@
 ```mermaid
 flowchart LR
     %% Actors
-    Tenant((👤 ผู้เช่า))
-    Admin((🧑‍💼 แอดมิน))
+    Tenant((ผู้เช่า))
+    Admin((แอดมิน))
 
     %% Main System Boundary
     subgraph DormBill [ระบบจัดการหอพัก DormBill]
